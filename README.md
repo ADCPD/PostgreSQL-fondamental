@@ -10,3 +10,5 @@ Ensuite, importez la dump de la base de données à partir du fichier BackupFile
 2. [Feltring Command](./docs/FeltringCommands.md)
 3. [Ordering Command](./docs/OrderingCommands.md)
 4. [Aggregate Command](./docs/AggregateCommands.md)
+5. [Group By Command](./docs/GroupCommands.md)
+6. [Conditionnal Statement](./docs/ConditionnalStatement.md)
