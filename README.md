@@ -12,3 +12,5 @@ Ensuite, importez la dump de la base de données à partir du fichier BackupFile
 4. [Aggregate Command](./docs/AggregateCommands.md)
 5. [Group By Command](./docs/GroupCommands.md)
 6. [Conditionnal Statement](./docs/ConditionnalStatement.md)
+7. [JOINS](./docs/joins.md)
+8. [Subqueries](./docs/subqueries.md)
