@@ -3,7 +3,8 @@ SQL course covering basic to advanced SQL topics for SQL Database ( PostgreSQL )
 
 PostgreSQL installer : 
 Choisisez le mode d'instalation : [Interactive installer by EDB](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
-Ensuite, importez la dump de la base de données à partir du /backup
+
+Ensuite, importez la dump de la base de données à partir du fichier BackupFiles.zip
 
 1. [Fondamental SQL](./docs/SQLFondamental.md)
 2. [Feltring Command](./docs/FeltringCommands.md)
