@@ -14,3 +14,5 @@ Ensuite, importez la dump de la base de données à partir du fichier BackupFile
 6. [Conditionnal Statement](./docs/ConditionnalStatement.md)
 7. [JOINS](./docs/joins.md)
 8. [Subqueries](./docs/subqueries.md)
+9. [Views](./docs/views.md)
+10. [Index](./docs/index.md)
