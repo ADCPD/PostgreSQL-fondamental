@@ -16,3 +16,6 @@ Ensuite, importez la dump de la base de données à partir du fichier BackupFile
 8. [Subqueries](./docs/subqueries.md)
 9. [Views](./docs/views.md)
 10. [Index](./docs/index.md)
+11. [String functions](./docs/string_function.md)
+12.
+13. 
