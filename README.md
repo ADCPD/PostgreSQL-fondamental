@@ -17,5 +17,5 @@ Ensuite, importez la dump de la base de données à partir du fichier BackupFile
 9. [Views](./docs/views.md)
 10. [Index](./docs/index.md)
 11. [String functions](./docs/string_function.md)
-12.
+12. [Mathematical functions](./docs/mathematical_function.md)
 13. 
