@@ -18,4 +18,4 @@ Ensuite, importez la dump de la base de données à partir du fichier BackupFile
 10. [Index](./docs/index.md)
 11. [String functions](./docs/string_function.md)
 12. [Mathematical functions](./docs/mathematical_function.md)
-13. 
+13. [DateTime function](./docs/dateTimeFunction.md)
