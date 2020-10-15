@@ -21,3 +21,4 @@ Ensuite, importez la dump de la base de données à partir du fichier BackupFile
 13. [DateTime function](./docs/dateTimeFunction.md)
 14. [PATTERN STRING](./docs/patern.md)
 15. [TRANCATE](./docs/trancate.md)
+16. [Tablespaces](./docs/tablespaces.md)
