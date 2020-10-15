@@ -23,3 +23,4 @@ Ensuite, importez la dump de la base de données à partir du fichier BackupFile
 15. [TRANCATE](./docs/trancate.md)
 16. [Tablespaces](./docs/tablespaces.md)
 17. [User Access Control Functions](./docs/userAccessControl.md)
+18. [Performance tunning tips](./docs/performances.md)
